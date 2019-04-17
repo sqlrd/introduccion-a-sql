@@ -1,2 +1,2 @@
-# introduccion-a-sql
-Material del curso Introducción a SQL
+# Introducción a SQL
+Material del curso Introducción a SQL.
